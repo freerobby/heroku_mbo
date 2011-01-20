@@ -2,7 +2,7 @@ source 'http://rubygems.org'
 
 gem 'heroku'
 gem 'delayed_job'
-gem 'middle_management', '>= 1.0.1'
+gem 'middle_management', '>= 1.0.5'
 gem 'rails', '~> 3.0'
 
 group :development, :test do
